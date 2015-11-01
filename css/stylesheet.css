@@ -1,0 +1,60 @@
+h1 {
+	color: #787878;
+	font-family: cursive;
+	text-align: center;
+}
+nav {
+	font-size: 15px;
+	font-family: Courier;
+
+}
+.uno {
+	height: 100px;
+	width: 1100px;
+	background-color: #dfffcc;
+}
+.dos {
+	height: 450px;
+	width: 1100px;
+	background-color: #ccf8ff;
+
+}
+.tres {
+	height: 250px;
+	width: 1100px;
+	background-color: #f8ffcc;
+}
+.cuatro {
+	height: 125px;
+	width: 1100px;
+	background-color: #ffdab9;
+}
+.cinco {
+	height: 175px;
+	width: 1100px;
+	background-color: #c0c0c0;
+}
+div p {
+	height: 50px;
+	width: 150px;
+	border: 5px dotted silver;
+
+}
+.box {
+	text-align: center;
+	font-size: 20px;
+	margin: 10px auto 10px auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
